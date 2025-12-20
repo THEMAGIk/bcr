@@ -1,0 +1,23 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 700">
+  <defs>
+    <style type="text/css">
+      .green-dark { fill: #1D5422; }
+      .green-mid { fill: #38761D; }
+      .yellow-gold { fill: #E6B800; }
+    </style>
+  </defs>
+
+  <path class="green-dark" d="M 500,0 C 300,0 200,100 200,250 C 200,400 300,500 500,500 L 500,420 C 350,420 300,350 300,250 C 300,150 350,80 500,80 L 500,0 Z" />
+  <path class="green-mid" d="M 500,80 C 650,80 700,150 700,250 C 700,350 650,420 500,420 L 500,500 C 700,500 800,400 800,250 C 800,100 700,0 500,0 Z" />
+  
+  <circle class="yellow-gold" cx="500" cy="350" r="150" fill="none" stroke="#E6B800" stroke-width="80" />
+
+  <path class="green-mid" d="M 500,250 L 430,450 L 570,450 Z" />
+  <rect class="yellow-gold" x="490" y="270" width="20" height="180" />
+  <circle class="green-mid" cx="500" cy="270" r="15" />
+
+  <text class="green-dark" x="500" y="580" font-family="Arial, sans-serif" font-size="65" font-weight="bold" text-anchor="middle" letter-spacing="10">BCR GROUP</text>
+
+  <text class="green-mid" x="500" y="650" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" letter-spacing="10">CONSTRUCTION</text>
+
+</svg>
